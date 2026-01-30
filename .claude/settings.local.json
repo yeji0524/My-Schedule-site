@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "Bash(fuser:*)",
+      "Bash(pkill:*)",
+      "Bash(python3 -m pip install:*)",
+      "Bash(npm install:*)",
+      "Bash(npx playwright install chromium)",
+      "Bash(node scrape-seats.js:*)"
+    ]
+  }
+}
