@@ -25,6 +25,9 @@ _backup
 .DS_Store
 *.pem
 
+# claude code settings
+.claude/
+
 # debug
 npm-debug.log*
 yarn-debug.log*
